@@ -25,10 +25,10 @@
 - 완전히 이해하고 적용하는 개발자
 - 기획력을 갖춘 개발자
 ## 
-![both](./assets/both.jpg)
-![mk1](./assets/mk1.jpg)
-![mk2](./assets/mk2.jpg)
-![mk3](./assets/mk3.jpg)
-![mr3](./assets/mr3.jpg)
+![both](./assets/both.JPG)
+![mk1](./assets/mk1.JPG)
+![mk2](./assets/mk2.JPG)
+![mk3](./assets/mk3.JPG)
+![mr3](./assets/mr3.JPG)
 ![mr1](./assets/mr1.jpg)
 ![mr2](./assets/mr2.jpg)
