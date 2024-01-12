@@ -26,9 +26,9 @@
 - 기획력을 갖춘 개발자
 ## 
 ![both](./assets/both.jpg)
-![both](./assets/mk1.jpg)
-![both](./assets/mk2.jpg)
-![both](./assets/mk3.jpg)
-![both](./assets/mr3.jpg)
-![both](./assets/mr1.jpg)
-![both](./assets/mr2.jpg)
+![mk1](./assets/mk1.jpg)
+![mk2](./assets/mk2.jpg)
+![mk3](./assets/mk3.jpg)
+![mr3](./assets/mr3.jpg)
+![mr1](./assets/mr1.jpg)
+![mr2](./assets/mr2.jpg)
